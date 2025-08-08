@@ -20,3 +20,9 @@
   </p>
 </body>
 </html>
+<footer>
+  <p>&copy; 2025 Digital Diary Finance. All rights reserved.</p>
+  <a href="about.html">About</a> |
+  <a href="privacy.html">Privacy Policy</a> |
+  <a href="contact.html">Contact</a>
+</footer>
