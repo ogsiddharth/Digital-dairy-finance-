@@ -7,4 +7,4 @@ This is a web-based digital finance diary that allows users to:
 - Track monthly entries
 - And more features...
 
-🟢 Live Site: [Click here](https://ogsiddharth.github.io/My-Digital-finance-tracker-dairy-/)
+🟢 Live Site: [Click here](https://ogsiddharth.github.io/Digital-dairy-finance-/)
