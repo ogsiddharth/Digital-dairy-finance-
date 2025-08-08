@@ -26,3 +26,18 @@
   <a href="privacy.html">Privacy Policy</a> |
   <a href="contact.html">Contact</a>
 </footer>
+<head>
+  <meta charset="UTF-8">
+  <title>About Us – Digital Diary Finance</title>
+  <style>
+    body {
+      background-color: #ffffff; /* white background */
+      color: #222222; /* dark text */
+      font-family: Arial, sans-serif;
+    }
+
+    h1 {
+      color: #004080; /* dark blue heading */
+    }
+  </style>
+</head>
