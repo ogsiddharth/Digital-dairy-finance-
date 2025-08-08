@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Us – Digital Diary Finance</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>About Digital Diary Finance</h1>
+  <p>
+    Digital Diary Finance is a simple and secure web-based personal finance tracker. 
+    It helps users to manage their income and expenses in one place, view summaries, generate reports, and stay financially organized.
+  </p>
+  <p>
+    This website is created with the aim of helping individuals take control of their money by providing easy tools for tracking and budgeting.
+  </p>
+</body>
+</html>
