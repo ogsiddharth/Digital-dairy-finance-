@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact Us – Digital Diary Finance</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Contact Us</h1>
+  <p>If you have any questions, suggestions, or feedback, feel free to contact us at:</p>
+  <ul>
+    <li>Email: <strong>ogsiddharth@gmail.com</strong></li>
+    <li>Instagram: <strong>@pixel.poet.__</strong></li>
+  </ul>
+</body>
+</html>
