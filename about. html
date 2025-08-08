@@ -4,6 +4,17 @@
   <meta charset="UTF-8">
   <title>About Us – Digital Diary Finance</title>
   <link rel="stylesheet" href="style.css">
+<style>
+    body {
+      background-color: #ffffff; /* white background */
+      color: #222222; /* dark text */
+      font-family: Arial, sans-serif;
+    }
+
+    h1 {
+      color: #004080; /* dark blue heading */
+    }
+  </style>
 </head>
 <body>
   <h1>About Digital Diary Finance</h1>
