@@ -336,3 +336,24 @@
   <a href="privacy.html">Privacy Policy</a> |
   <a href="contact.html">Contact</a>
 </footer>
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyAjdnQqaeamV-a6My-euN3RYcPnsZ0ndQU",
+  authDomain: "my-login-app-2219b.firebaseapp.com",
+  projectId: "my-login-app-2219b",
+  storageBucket: "my-login-app-2219b.firebasestorage.app",
+  messagingSenderId: "468301433343",
+  appId: "1:468301433343:web:cade8ccf8ce481b6f1ffca",
+  measurementId: "G-R09NV9HBGW"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
